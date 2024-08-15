@@ -1,0 +1,10 @@
+jdsbc1212ocp2-cache-0   3/3    Running   0          12h  10.231.43.226  blr-pc5-ocp2-comp21.blr-ocp2.lab.rbbn.com   <none>           <none>
+jdsbc1212ocp2-cache-1   3/3    Running   0          12h  10.231.15.145  blr-pc5-ocp2-comp12.blr-ocp2.lab.rbbn.com   <none>           <none>
+jdsbc1212ocp2-cache-2   3/3    Running   0          12h  10.231.16.32   blr-pc5-ocp2-comp17.blr-ocp2.lab.rbbn.com   <none>           <none>
+jdsbc1212ocp2-cache-3   3/3    Running   0          12h  10.231.16.35   blr-pc5-ocp2-comp17.blr-ocp2.lab.rbbn.com   <none>           <none>
+jdsbc1212ocp2-cache-4   3/3    Running   0          12h  10.231.18.232  blr-pc5-ocp2-comp20.blr-ocp2.lab.rbbn.com   <none>           <none>
+jdsbc1212ocp2-cache-5   3/3    Running   0          12h  10.231.18.233  blr-pc5-ocp2-comp20.blr-ocp2.lab.rbbn.com   <none>           <none>
+jdsbc1212ocp2-cache-6   3/3    Running   0          12h  10.231.15.144  blr-pc5-ocp2-comp12.blr-ocp2.lab.rbbn.com   <none>           <none>
+jdsbc1212ocp2-cache-7   3/3    Running   0          12h  10.231.16.36   blr-pc5-ocp2-comp17.blr-ocp2.lab.rbbn.com   <none>           <none>
+jdsbc1212ocp2-cache-8   3/3    Running   0          12h  10.231.15.146  blr-pc5-ocp2-comp12.blr-ocp2.lab.rbbn.com   <none>           <none>
+jdsbc1212ocp2-cache-9   3/3    Running   0          12h  10.231.43.231  blr-pc5-ocp2-comp21.blr-ocp2.lab.rbbn.com   <none>           <none>
